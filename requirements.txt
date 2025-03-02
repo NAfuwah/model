@@ -1,0 +1,11 @@
+Flask
+pandas
+numpy
+stable-baselines3
+gym
+openpyxl
+torch
+matplotlib
+seaborn
+scikit-learn
+tabulate
